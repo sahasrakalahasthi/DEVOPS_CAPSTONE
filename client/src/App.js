@@ -5,7 +5,7 @@ import MovieCard from './Components/MovieCard';
 import {toast} from 'react-hot-toast'
 
 
-const url = "http://44.202.65.83:8000"
+const url = "http://44.211.175.89:8000"
 
 const App = () => {
   const [movie, setMovie] = useState({
